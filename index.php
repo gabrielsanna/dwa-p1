@@ -4,6 +4,7 @@
 	<head>
 		<title>Gabriel Sanna</title>
 		<link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="styles.css">
 	</head>
 	<body>
 		<div id="wrapper">
